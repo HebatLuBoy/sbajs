@@ -60,11 +60,11 @@ def BerlinLoveRieny(TeamPeopleBoTS):
             if People in TeamPeopleBoTS.param3:
                 if TeamPeopleBoTS.param2 not in Creators and TeamPeopleBoTS.param2 not in Pasukan and TeamPeopleBoTS.param2 not in Bangsat["Algojo"]:
                     XeberlhynBoss.acceptGroupInvitation(TeamPeopleBoTS.param1)
-                    XeberlhynBoss.BecauseMyTeAmPEOPLEBOT(TeamPeopleBoTS.param1,"❖ Maaf, Lu bukan boss gua")
+                    XeberlhynBoss.BecauseMyTeAmPEOPLEBOT(TeamPeopleBoTS.param1,"ꜱᴏʀʀʏ, ʟᴜ ʙᴜᴋᴀɴ ʙᴏꜱ ɢᴜᴀ ᴀɴᴊɪɴɢ!")
                     XeberlhynBoss.leaveGroup(TeamPeopleBoTS.param1)
                 else:
                     XeberlhynBoss.acceptGroupInvitation(TeamPeopleBoTS.param1)
-                    XeberlhynBoss.BecauseMyTeAmPEOPLEBOT(TeamPeopleBoTS.param1,"❖ Terimakasih Bossku sudah di undang")
+                    XeberlhynBoss.BecauseMyTeAmPEOPLEBOT(TeamPeopleBoTS.param1,"ᴍɪꜱɪ, ɴᴜᴍᴘᴀɴɢ ᴏᴘᴇɴ ʙᴏ !!!")
             if TeamPeopleBoTS.param2 in Bangsat["Daftarhitam"]:
                 if TeamPeopleBoTS.param2 in Creators and TeamPeopleBoTS.param2 in Pasukan and TeamPeopleBoTS.param2 in Bangsat["Algojo"]:
                     pass
