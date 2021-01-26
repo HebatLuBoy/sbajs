@@ -25,15 +25,15 @@ call = XeberlhynBoss
 People = XeberlhynBoss.getProfile().mid
 Berlin = XeberlhynAJS.getProfile().mid
 Pasukan =[People,Berlin]
-Creators = [""u7c12144cc680c22acfd886ed81908b75""]
-President = ""u7c12144cc680c22acfd886ed81908b75""
+Creators = ["u7c12144cc680c22acfd886ed81908b75"]
+President = "u7c12144cc680c22acfd886ed81908b75"
 JandaBahenol = []
 Bangsat = {
     "Daftarhitam": {},
     "link": {},
     "kickers": {},
     "Algojo": {
-        ""u7c12144cc680c22acfd886ed81908b75"": True
+        "u7c12144cc680c22acfd886ed81908b75": True
     },
     "paraundangan": {},
     "JeritanJanda": {},
@@ -60,11 +60,11 @@ def BerlinLoveRieny(TeamPeopleBoTS):
             if People in TeamPeopleBoTS.param3:
                 if TeamPeopleBoTS.param2 not in Creators and TeamPeopleBoTS.param2 not in Pasukan and TeamPeopleBoTS.param2 not in Bangsat["Algojo"]:
                     XeberlhynBoss.acceptGroupInvitation(TeamPeopleBoTS.param1)
-                    XeberlhynBoss.BecauseMyTeAmPEOPLEBOT(TeamPeopleBoTS.param1,"⌬ Maaf anda bukan creator saya")
+                    XeberlhynBoss.BecauseMyTeAmPEOPLEBOT(TeamPeopleBoTS.param1,"❖ Maaf,Lu bukan boss gua")
                     XeberlhynBoss.leaveGroup(TeamPeopleBoTS.param1)
                 else:
                     XeberlhynBoss.acceptGroupInvitation(TeamPeopleBoTS.param1)
-                    XeberlhynBoss.BecauseMyTeAmPEOPLEBOT(TeamPeopleBoTS.param1,"⌬ Terimakasih Bossku sudah di undang")
+                    XeberlhynBoss.BecauseMyTeAmPEOPLEBOT(TeamPeopleBoTS.param1,"❖ Terimakasih Bossku sudah di undang")
             if TeamPeopleBoTS.param2 in Bangsat["Daftarhitam"]:
                 if TeamPeopleBoTS.param2 in Creators and TeamPeopleBoTS.param2 in Pasukan and TeamPeopleBoTS.param2 in Bangsat["Algojo"]:
                     pass
