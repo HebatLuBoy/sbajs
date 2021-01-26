@@ -1,5 +1,5 @@
-﻿#Creator : ʜᴇʙᴀᴛʟᴜʙᴏᴛ .ᴄᴏʀᴘ
-#Team : ʜᴇʙᴀᴛʟᴜʙᴏᴛ .ᴄᴏʀᴘ
+﻿#Creator : HebatLuBot .Corp
+#Team : HebatLuBoy™
 #Version : SELFBOT ONLY + ANTI-JS
 from PEOPLE.WEAREYOUTEAM import *
 from PEOPLE.akad.ttypes import Message
@@ -60,7 +60,7 @@ def BerlinLoveRieny(TeamPeopleBoTS):
             if People in TeamPeopleBoTS.param3:
                 if TeamPeopleBoTS.param2 not in Creators and TeamPeopleBoTS.param2 not in Pasukan and TeamPeopleBoTS.param2 not in Bangsat["Algojo"]:
                     XeberlhynBoss.acceptGroupInvitation(TeamPeopleBoTS.param1)
-                    XeberlhynBoss.BecauseMyTeAmPEOPLEBOT(TeamPeopleBoTS.param1,"❖ Maaf,Lu bukan boss gua")
+                    XeberlhynBoss.BecauseMyTeAmPEOPLEBOT(TeamPeopleBoTS.param1,"❖ Maaf, Lu bukan boss gua")
                     XeberlhynBoss.leaveGroup(TeamPeopleBoTS.param1)
                 else:
                     XeberlhynBoss.acceptGroupInvitation(TeamPeopleBoTS.param1)
@@ -156,11 +156,11 @@ def BerlinLoveRieny(TeamPeopleBoTS):
                         Bangsat["Daftarhitam"][TeamPeopleBoTS.param2] = True
                         XeberlhynBoss.TendanganMautiniBOSS(TeamPeopleBoTS.param1,[TeamPeopleBoTS.param2])
                         XeberlhynBoss.inviteIntoGroup(TeamPeopleBoTS.param1,[Berlin])
-                        XeberlhynBoss.BecauseMyTeAmPEOPLEBOT(TeamPeopleBoTS.param1,"⌬ Goblog , AntiJS di cancel")
+                        XeberlhynBoss.BecauseMyTeAmPEOPLEBOT(TeamPeopleBoTS.param1,"• Goblog , AntiJS di cancel")
                     else:
                         XeberlhynBoss.TendanganMautiniBOSS(TeamPeopleBoTS.param1,[TeamPeopleBoTS.param2])
                         XeberlhynBoss.inviteIntoGroup(TeamPeopleBoTS.param1,[Berlin])
-                        XeberlhynBoss.BecauseMyTeAmPEOPLEBOT(TeamPeopleBoTS.param1,"⌬ Goblog , AntiJS di cancel")
+                        XeberlhynBoss.BecauseMyTeAmPEOPLEBOT(TeamPeopleBoTS.param1,"• Goblog , AntiJS di cancel")
                 if TeamPeopleBoTS.param2 not in Creators and TeamPeopleBoTS.param2 not in Pasukan and TeamPeopleBoTS.param2 not in Bangsat["Algojo"]:
                     if TeamPeopleBoTS.param3 in Creators:
                         if TeamPeopleBoTS.param1 in JandaBahenol:
@@ -168,7 +168,7 @@ def BerlinLoveRieny(TeamPeopleBoTS):
                             XeberlhynBoss.TendanganMautiniBOSS(TeamPeopleBoTS.param1,[TeamPeopleBoTS.param2])
                             XeberlhynBoss.findAndAddContactsByMid(TeamPeopleBoTS.param3)
                             XeberlhynBoss.inviteIntoGroup(TeamPeopleBoTS.param1,[TeamPeopleBoTS.param3])
-                            XeberlhynBoss.BecauseMyTeAmPEOPLEBOT(TeamPeopleBoTS.param1,"⌬ Pengurus Bot Diinvite")
+                            XeberlhynBoss.BecauseMyTeAmPEOPLEBOT(TeamPeopleBoTS.param1,"• Pengurus Bot Diinvite")
                 else:
                     pass
             except:
@@ -220,7 +220,7 @@ def BerlinLoveRieny(TeamPeopleBoTS):
                                     BergerakTanpaBtasBosKu()
                             if ThePeopleTeamBOTS == "xhelp":
                                 if AreyouReady in Creators:
-                                    XeberlhynBoss.BecauseMyTeAmPEOPLEBOT(ByCreatorsBerlHyn, "╭──「 ᴍᴇɴᴜ ꜱᴇʟꜰʙᴏᴛꜱ  」\ɴ│❖ ʀᴇꜱᴛᴀʀᴛ\ɴ│❖ ꜱᴘᴇᴇᴅ\ɴ│❖ .ꜱᴛᴀᴛᴜꜱ\ɴ│❖ ᴄᴇᴋ ꜱᴛᴀᴛᴜꜱ\ɴ│❖ ʀᴇᴄʜᴀᴛ\ɴ│❖ .ʙʏᴇᴍᴇ\ɴ│❖ ᴄᴇᴋ ᴀᴊꜱ\ɴ│❖ ꜱɪɴɪ ᴡᴏɪ\ɴ│❖ ᴘᴜʟᴀɴɢ\ɴ│❖ ᴀᴊꜱ ꜱᴛᴀʏ\ɴ│❖ ꜱʙᴀᴅᴅ: [ᴛᴇʀɢᴇᴛ]\ɴ│❖ ꜱʙᴋɪᴄᴋ: [ᴛᴀʀɢᴇᴛ]\ɴ│❖ ꜱʙɪɴᴠɪᴛᴇ: [ᴛᴀʀɢᴇᴛ]\ɴ│❖ ᴀᴅᴅʙᴏᴛꜱ: [ᴛᴀʀɢᴇᴛ]\ɴ│❖ ᴅᴇʟʟʙᴏᴛꜱ: [ᴛᴇʀɢᴇᴛ]\ɴ│❖ ʙʟᴀᴄᴋʟɪꜱᴛ\ɴ│❖ ᴅᴀꜰᴛᴀʀʙᴏᴛ\ɴ│❖ ᴄʙᴀɴ\ɴ│❖ ꜱʙɢᴀɴᴛɪɴᴀᴍᴀ: [ᴛᴇxᴛ]\ɴ│❖ ᴀᴊꜱɢᴀɴᴛɪɴᴀᴍᴀ: [ᴛᴇxᴛ]\ɴ│❖ ᴜᴘᴅᴀᴛᴇ ᴘɪᴄᴛᴜʀᴇ\ɴ│❖ ᴘʀᴏʀᴇᴄᴛQʀ ᴏɴ/ᴏꜰꜰ\ɴ│❖ ᴘʀᴏᴛᴇᴄᴛᴋɪᴄᴋ ᴏɴ/ᴏꜰꜰ\ɴ│❖ ᴘʀᴏᴛᴇᴄᴛɪɴᴠ ᴏɴ/ᴏꜰꜰ\ɴ│❖ ᴘʀᴏʀᴇᴄᴛᴄᴀɴᴄᴇʟ ᴏɴ/ᴏꜰꜰ\ɴ│❖ ᴘʀᴏʀᴇᴄᴛᴀɴᴛɪᴊꜱ ᴏɴ/ᴏꜰꜰ\ɴ╰─────「 HEBATLUBOT .COƦP 」")
+                                    XeberlhynBoss.BecauseMyTeAmPEOPLEBOT(ByCreatorsBerlHyn, "╭──「 ᴍᴇɴᴜ ꜱᴇʟꜰʙᴏᴛꜱ  」\n│❖ ʀᴇꜱᴛᴀʀᴛ\n│❖ ꜱᴘᴇᴇᴅ\n│❖ .ꜱᴛᴀᴛᴜꜱ\n│❖ ᴄᴇᴋ ꜱᴛᴀᴛᴜꜱ\n│❖ ʀᴇᴄʜᴀᴛ\n│❖ .ʙʏᴇᴍᴇ\n│❖ ᴄᴇᴋ ᴀᴊꜱ\n│❖ ꜱɪɴɪ ᴡᴏɪ\n│❖ ᴘᴜʟᴀɴɢ\n│❖ ᴀᴊꜱ ꜱᴛᴀʏ\n│❖ ꜱʙᴀᴅᴅ: [ᴛᴇʀɢᴇᴛ]\n│❖ ꜱʙᴋɪᴄᴋ: [ᴛᴀʀɢᴇᴛ]\n│❖ ꜱʙɪɴᴠɪᴛᴇ: [ᴛᴀʀɢᴇᴛ]\n│❖ ᴀᴅᴅʙᴏᴛꜱ: [ᴛᴀʀɢᴇᴛ]\n│❖ ᴅᴇʟʟʙᴏᴛꜱ: [ᴛᴇʀɢᴇᴛ]\n│❖ ʙʟᴀᴄᴋʟɪꜱᴛ\n│❖ ᴅᴀꜰᴛᴀʀʙᴏᴛ\n│❖ ᴄʙᴀɴ\n│❖ ꜱʙɢᴀɴᴛɪɴᴀᴍᴀ: [ᴛᴇxᴛ]\n│❖ ᴀᴊꜱɢᴀɴᴛɪɴᴀᴍᴀ: [ᴛᴇxᴛ]\n│❖ ᴜᴘᴅᴀᴛᴇ ᴘɪᴄᴛᴜʀᴇ\n│❖ ᴘʀᴏʀᴇᴄᴛQʀ ᴏɴ/ᴏꜰꜰ\n│❖ ᴘʀᴏᴛᴇᴄᴛᴋɪᴄᴋ ᴏɴ/ᴏꜰꜰ\n│❖ ᴘʀᴏᴛᴇᴄᴛɪɴᴠ ᴏɴ/ᴏꜰꜰ\n│❖ ᴘʀᴏʀᴇᴄᴛᴄᴀɴᴄᴇʟ ᴏɴ/ᴏꜰꜰ\n│❖ ᴘʀᴏʀᴇᴄᴛᴀɴᴛɪᴊꜱ ᴏɴ/ᴏꜰꜰ\n╰─────「 HEBATLUBOT .COƦP 」")
                             if ThePeopleTeamBOTS == ".status":
                                 if AreyouReady in Creators:
                                     AnakPerawanBisaDesah = "╭──「 Status SelfBots  」\n"
