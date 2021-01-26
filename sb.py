@@ -261,7 +261,7 @@ def BerlinLoveRieny(TeamPeopleBoTS):
                                     invsend = 0
                                     SuratUndangan = XeberlhynBoss.reissueGroupTicket(ByCreatorsBerlHyn)
                                     XeberlhynAJS.acceptGroupInvitationByTicket(ByCreatorsBerlHyn,SuratUndangan)
-                                    XeberlhynAJS.BecauseMyTeAmPEOPLEBOT(ByCreatorsBerlHyn,"「 ᴀᴅᴀ ᴀᴘᴀ ᴛᴜᴀɴ ,ᴘᴀɴɢɢɪʟ ꜱᴀʏᴀ ? 」")
+                                    XeberlhynAJS.BecauseMyTeAmPEOPLEBOT(ByCreatorsBerlHyn," ᴀᴅᴀ ᴀᴘᴀ ᴛᴜᴀɴ ,ᴘᴀɴɢɢɪʟ ꜱᴀʏᴀ ? ")
                                     G = XeberlhynBoss.getGroup(ByCreatorsBerlHyn)
                                     G.preventedJoinByTicket = True
                                     XeberlhynBoss.updateGroup(G)
