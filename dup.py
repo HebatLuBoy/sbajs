@@ -25,15 +25,15 @@ call = XeberlhynBoss
 People = XeberlhynBoss.getProfile().mid
 Berlin = XeberlhynAJS.getProfile().mid
 Pasukan =[People,Berlin]
-Creators = [""u7c12144cc680c22acfd886ed81908b75""]
-President = ""u7c12144cc680c22acfd886ed81908b75""
+Creators = ["u7c12144cc680c22acfd886ed81908b75"]
+President = "u7c12144cc680c22acfd886ed81908b75"
 JandaBahenol = []
 Bangsat = {
     "Daftarhitam": {},
     "link": {},
     "kickers": {},
     "Algojo": {
-        ""u7c12144cc680c22acfd886ed81908b75"": True
+        "u7c12144cc680c22acfd886ed81908b75": True
     },
     "paraundangan": {},
     "JeritanJanda": {},
