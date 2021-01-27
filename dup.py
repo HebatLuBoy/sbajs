@@ -16,8 +16,8 @@ XeberlhynWaktu = time.time()
 #XeberlhynAJS = LINE("TAROK TOKEN ANTIJS DISINI",appName="IOS\t10.1.1\tiOS\t13.3.1")
 
 
-XeberlhynBoss = LINE("emailpunyalu@gmail.com"."passwordnya")
-XeberlhynAJS = LINE("emailpunyalu@gmail.com"."passwordnya")
+XeberlhynBoss = LINE("emailpunyalu@gmail.com","passwordnya")
+XeberlhynAJS = LINE("emailpunyalu@gmail.com","passwordnya")
 
 print ("= SelfBot Antijs Succes Login =")
 MyCreatorXeberlhyn = OEPoll(XeberlhynBoss)
