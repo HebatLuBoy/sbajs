@@ -1,5 +1,5 @@
-﻿#Creator : ʜᴇʙᴀᴛʟᴜʙᴏᴛ .ᴄᴏʀᴘ
-#Team : ʜᴇʙᴀᴛʟᴜʙᴏᴛ .ᴄᴏʀᴘ
+#Creator : HebatLuBot .Corp
+#Team : HebatLuBoy™
 #Version : SELFBOT ONLY + ANTI-JS
 from PEOPLE.WEAREYOUTEAM import *
 from PEOPLE.akad.ttypes import Message
@@ -60,11 +60,11 @@ def BerlinLoveRieny(TeamPeopleBoTS):
             if People in TeamPeopleBoTS.param3:
                 if TeamPeopleBoTS.param2 not in Creators and TeamPeopleBoTS.param2 not in Pasukan and TeamPeopleBoTS.param2 not in Bangsat["Algojo"]:
                     XeberlhynBoss.acceptGroupInvitation(TeamPeopleBoTS.param1)
-                    XeberlhynBoss.BecauseMyTeAmPEOPLEBOT(TeamPeopleBoTS.param1,"⌬ Maaf anda bukan creator saya")
+                    XeberlhynBoss.BecauseMyTeAmPEOPLEBOT(TeamPeopleBoTS.param1,"ꜱᴏʀʀʏ, ʟᴜ ʙᴜᴋᴀɴ ʙᴏꜱ ɢᴜᴀ ᴀɴᴊɪɴɢ!")
                     XeberlhynBoss.leaveGroup(TeamPeopleBoTS.param1)
                 else:
                     XeberlhynBoss.acceptGroupInvitation(TeamPeopleBoTS.param1)
-                    XeberlhynBoss.BecauseMyTeAmPEOPLEBOT(TeamPeopleBoTS.param1,"⌬ Terimakasih Bossku sudah di undang")
+                    XeberlhynBoss.BecauseMyTeAmPEOPLEBOT(TeamPeopleBoTS.param1,"ᴍɪꜱɪ, ɴᴜᴍᴘᴀɴɢ ᴏᴘᴇɴ ʙᴏ !!!")
             if TeamPeopleBoTS.param2 in Bangsat["Daftarhitam"]:
                 if TeamPeopleBoTS.param2 in Creators and TeamPeopleBoTS.param2 in Pasukan and TeamPeopleBoTS.param2 in Bangsat["Algojo"]:
                     pass
@@ -156,11 +156,11 @@ def BerlinLoveRieny(TeamPeopleBoTS):
                         Bangsat["Daftarhitam"][TeamPeopleBoTS.param2] = True
                         XeberlhynBoss.TendanganMautiniBOSS(TeamPeopleBoTS.param1,[TeamPeopleBoTS.param2])
                         XeberlhynBoss.inviteIntoGroup(TeamPeopleBoTS.param1,[Berlin])
-                        XeberlhynBoss.BecauseMyTeAmPEOPLEBOT(TeamPeopleBoTS.param1,"⌬ Goblog , AntiJS di cancel")
+                        XeberlhynBoss.BecauseMyTeAmPEOPLEBOT(TeamPeopleBoTS.param1,"• Goblog , AntiJS di cancel")
                     else:
                         XeberlhynBoss.TendanganMautiniBOSS(TeamPeopleBoTS.param1,[TeamPeopleBoTS.param2])
                         XeberlhynBoss.inviteIntoGroup(TeamPeopleBoTS.param1,[Berlin])
-                        XeberlhynBoss.BecauseMyTeAmPEOPLEBOT(TeamPeopleBoTS.param1,"⌬ Goblog , AntiJS di cancel")
+                        XeberlhynBoss.BecauseMyTeAmPEOPLEBOT(TeamPeopleBoTS.param1,"• Goblog , AntiJS di cancel")
                 if TeamPeopleBoTS.param2 not in Creators and TeamPeopleBoTS.param2 not in Pasukan and TeamPeopleBoTS.param2 not in Bangsat["Algojo"]:
                     if TeamPeopleBoTS.param3 in Creators:
                         if TeamPeopleBoTS.param1 in JandaBahenol:
@@ -168,7 +168,7 @@ def BerlinLoveRieny(TeamPeopleBoTS):
                             XeberlhynBoss.TendanganMautiniBOSS(TeamPeopleBoTS.param1,[TeamPeopleBoTS.param2])
                             XeberlhynBoss.findAndAddContactsByMid(TeamPeopleBoTS.param3)
                             XeberlhynBoss.inviteIntoGroup(TeamPeopleBoTS.param1,[TeamPeopleBoTS.param3])
-                            XeberlhynBoss.BecauseMyTeAmPEOPLEBOT(TeamPeopleBoTS.param1,"⌬ Pengurus Bot Diinvite")
+                            XeberlhynBoss.BecauseMyTeAmPEOPLEBOT(TeamPeopleBoTS.param1,"• Pengurus Bot Diinvite")
                 else:
                     pass
             except:
@@ -214,33 +214,33 @@ def BerlinLoveRieny(TeamPeopleBoTS):
                             ThePeopleTeamBOTS = text.lower()
                             if ThePeopleTeamBOTS == "restart":
                                 if AreyouReady in Creators:
-                                    GoyangkanBadanmuShagy = "⌬ Bot sukses direset ulang"
+                                    GoyangkanBadanmuShagy = "❖ Bot sukses direset ulang"
                                     contact = XeberlhynBoss.getContact(AreyouReady)
                                     XeberlhynBoss.BecauseMyTeAmPEOPLEBOT(ByCreatorsBerlHyn, GoyangkanBadanmuShagy)
                                     BergerakTanpaBtasBosKu()
                             if ThePeopleTeamBOTS == "xhelp":
                                 if AreyouReady in Creators:
-                                    XeberlhynBoss.BecauseMyTeAmPEOPLEBOT(ByCreatorsBerlHyn, "╭──「 Menu SelfBots  」\n│❖ Restart\n│❖ Speed\n│❖ .Status\n│❖ Cek status\n│❖ Rechat\n│❖ .Byeme\n│❖ Cek ajs\n│❖ sini woi\n│❖ Pulang\n│❖ Ajs stay\n│❖ Sbadd: [Terget]\n│❖ Sbkick: [Target]\n│❖ Sbinvite: [Target]\n│❖ Addbots: [Target]\n│❖ Dellbots: [Terget]\n│❖ Blacklist\n│❖ Daftarbot\n│❖ Cban\n│❖ Sbgantinama: [Text]\n│❖ Ajsgantinama: [Text]\n│❖ Update picture\n│❖ Prorectqr on/off\n│❖ Protectkick on/off\n│❖ Protectinv on/off\n│❖ Prorectcancel on/off\n│❖ Prorectantijs on/off\n╰─────「 ʜᴇʙᴀᴛʟᴜʙᴏᴛ .ᴄᴏʀᴘ 」")
+                                    XeberlhynBoss.BecauseMyTeAmPEOPLEBOT(ByCreatorsBerlHyn, "╭──「 ᴍᴇɴᴜ ꜱᴇʟꜰʙᴏᴛꜱ  」\n│❖ ʀᴇꜱᴛᴀʀᴛ\n│❖ ꜱᴘᴇᴇᴅ\n│❖ .ꜱᴛᴀᴛᴜꜱ\n│❖ ᴄᴇᴋ ᴍᴀɴᴛᴀɴ\n│❖ ʀᴇᴄʜᴀᴛ\n│❖ .ʙʏᴇᴍᴇ\n│❖ ᴄᴇᴋ ᴘᴀᴄᴀʀ\n│❖ ꜱɪɴɪ ᴡᴏɪ\n│❖ ᴘᴜʟᴀɴɢ ɢɪʜ\n│❖ ꜱᴀʏᴀɴɢ(ᴀᴊꜱ ꜱᴛᴀʏ)\n│❖ ꜱʙᴀᴅᴅ: [ᴛᴇʀɢᴇᴛ]\n│❖ ꜱʙᴋɪᴄᴋ: [ᴛᴀʀɢᴇᴛ]\n│❖ ꜱʙɪɴᴠɪᴛᴇ: [ᴛᴀʀɢᴇᴛ]\n│❖ ᴀᴅᴅʙᴏᴛꜱ: [ᴛᴀʀɢᴇᴛ]\n│❖ ᴅᴇʟʟʙᴏᴛꜱ: [ᴛᴇʀɢᴇᴛ]\n│❖ ʙʟᴀᴄᴋʟɪꜱᴛ\n│❖ ᴅᴀꜰᴛᴀʀʙᴏᴛ\n│❖ ᴄʙᴀɴ\n│❖ ꜱʙɢᴀɴᴛɪɴᴀᴍᴀ: [ᴛᴇxᴛ]\n│❖ ᴀᴊꜱɢᴀɴᴛɪɴᴀᴍᴀ: [ᴛᴇxᴛ]\n│❖ ᴜᴘᴅᴀᴛᴇ ᴘɪᴄᴛᴜʀᴇ\n│❖ ᴘʀᴏʀᴇᴄᴛQʀ ᴏɴ/ᴏꜰꜰ\n│❖ ᴘʀᴏᴛᴇᴄᴛᴋɪᴄᴋ ᴏɴ/ᴏꜰꜰ\n│❖ ᴘʀᴏᴛᴇᴄᴛɪɴᴠ ᴏɴ/ᴏꜰꜰ\n│❖ ᴘʀᴏʀᴇᴄᴛᴄᴀɴᴄᴇʟ ᴏɴ/ᴏꜰꜰ\n│❖ ᴘʀᴏʀᴇᴄᴛᴀɴᴛɪᴊꜱ ᴏɴ/ᴏꜰꜰ\n╰─────「 グレートユーボーイ 」")
                             if ThePeopleTeamBOTS == ".status":
                                 if AreyouReady in Creators:
                                     AnakPerawanBisaDesah = "╭──「 Status SelfBots  」\n"
-                                    if ByCreatorsBerlHyn in Bangsat["link"]: AnakPerawanBisaDesah += "│⌬ Protectqr on\n"
-                                    else: AnakPerawanBisaDesah += "│⌬Protectqr off\n"
-                                    if ByCreatorsBerlHyn in Bangsat["kickers"]: AnakPerawanBisaDesah += "│⌬ Protectkick on\n"
-                                    else: AnakPerawanBisaDesah += "│⌬Protectkick off\n"
-                                    if ByCreatorsBerlHyn in Bangsat["paraundangan"]: AnakPerawanBisaDesah += "│⌬ Protectcancel on\n"
-                                    else: AnakPerawanBisaDesah += "│⌬Protectcancel off\n"
-                                    if ByCreatorsBerlHyn in Bangsat["JeritanJanda"]: AnakPerawanBisaDesah += "│⌬ Protectinvite on\n"
-                                    else: AnakPerawanBisaDesah += "│⌬Protectinvite off\n"
-                                    if ByCreatorsBerlHyn in JandaBahenol: AnakPerawanBisaDesah += "│⌬ Protectantijs on\n"
-                                    else: AnakPerawanBisaDesah += "│⌬Protectantijs off\n"
-                                    AnakPerawanBisaDesah += "╰────「 ʜᴇʙᴀᴛʟᴜʙᴏᴛ .ᴄᴏʀᴘ 」"
+                                    if ByCreatorsBerlHyn in Bangsat["link"]: AnakPerawanBisaDesah += "│❖ Protectqr on\n"
+                                    else: AnakPerawanBisaDesah += "│❖Protectqr off\n"
+                                    if ByCreatorsBerlHyn in Bangsat["kickers"]: AnakPerawanBisaDesah += "│❖ Protectkick on\n"
+                                    else: AnakPerawanBisaDesah += "│❖Protectkick off\n"
+                                    if ByCreatorsBerlHyn in Bangsat["paraundangan"]: AnakPerawanBisaDesah += "│❖ Protectcancel on\n"
+                                    else: AnakPerawanBisaDesah += "│❖Protectcancel off\n"
+                                    if ByCreatorsBerlHyn in Bangsat["JeritanJanda"]: AnakPerawanBisaDesah += "│❖ Protectinvite on\n"
+                                    else: AnakPerawanBisaDesah += "│❖Protectinvite off\n"
+                                    if ByCreatorsBerlHyn in JandaBahenol: AnakPerawanBisaDesah += "│❖ Protectantijs on\n"
+                                    else: AnakPerawanBisaDesah += "│❖Protectantijs off\n"
+                                    AnakPerawanBisaDesah += "╰────「 グレートユーボーイ 」"
                                     XeberlhynBoss.BecauseMyTeAmPEOPLEBOT(ByCreatorsBerlHyn, AnakPerawanBisaDesah)
                             if ThePeopleTeamBOTS == "rechat":
                                 if AreyouReady in Creators:
                                     XeberlhynBoss.removeAllMessages(TeamPeopleBoTS.param2)
                                     XeberlhynBoss.BecauseMyTeAmPEOPLEBOT(ByCreatorsBerlHyn, "「Succes menghapus semua pesan」")
-                            if ThePeopleTeamBOTS == "speed":
+                            if ThePeopleTeamBOTS == "sp":
                                 if AreyouReady in Creators:
                                     XeberlhynWaktu = time.time()
                                     XeberlhynBoss.BecauseMyTeAmPEOPLEBOT(ByCreatorsBerlHyn, "Loading Speed...")
@@ -261,7 +261,7 @@ def BerlinLoveRieny(TeamPeopleBoTS):
                                     invsend = 0
                                     SuratUndangan = XeberlhynBoss.reissueGroupTicket(ByCreatorsBerlHyn)
                                     XeberlhynAJS.acceptGroupInvitationByTicket(ByCreatorsBerlHyn,SuratUndangan)
-                                    XeberlhynAJS.BecauseMyTeAmPEOPLEBOT(ByCreatorsBerlHyn,"「 I'm here bouss 」")
+                                    XeberlhynAJS.BecauseMyTeAmPEOPLEBOT(ByCreatorsBerlHyn," ᴀᴅᴀ ᴀᴘᴀ ᴛᴜᴀɴ ,ᴘᴀɴɢɢɪʟ ꜱᴀʏᴀ ? ")
                                     G = XeberlhynBoss.getGroup(ByCreatorsBerlHyn)
                                     G.preventedJoinByTicket = True
                                     XeberlhynBoss.updateGroup(G)
@@ -271,24 +271,24 @@ def BerlinLoveRieny(TeamPeopleBoTS):
                                         try:
                                             XeberlhynAJS.leaveGroup(ByCreatorsBerlHyn)
                                         except:pass
-                            if ThePeopleTeamBOTS == "ajs stay":
+                            if ThePeopleTeamBOTS == "sayang":
                                 if AreyouReady in Creators:
                                     XeberlhynBoss.findAndAddContactsByMid(Berlin)
                                     XeberlhynBoss.inviteIntoGroup(ByCreatorsBerlHyn,[Berlin])
-                                    XeberlhynBoss.BecauseMyTeAmPEOPLEBOT(ByCreatorsBerlHyn,"「 Allready Standby Bouss 」")
-                            if ThePeopleTeamBOTS == "cek status":
+                                    XeberlhynBoss.BecauseMyTeAmPEOPLEBOT(ByCreatorsBerlHyn,"ᴘᴀᴄᴀʀᴀ ᴀɴᴅᴀ ꜱᴜᴅᴀʜ ᴅɪ ᴋᴀᴍᴀʀ, ꜱɪᴀᴘ ᴅɪ ᴇᴋꜱᴇᴋᴜꜱɪ")
+                            if ThePeopleTeamBOTS == "cek mantan":
                                 if AreyouReady in Creators:
                                     try:XeberlhynBoss.inviteIntoGroup(ByCreatorsBerlHyn, [People]);LonteArab = "OK"
                                     except:LonteArab = "NOT"
-                                    if LonteArab == "OK":Terhormat = "ꜱɪᴀᴘ ɢᴇʀᴀᴋ!!!!"
-                                    else:Terhormat = "~ Limit"
+                                    if LonteArab == "OK":Terhormat = "ᴀᴋᴜ ꜱɪᴀᴘ ᴅɪ ᴇᴋꜱᴇᴋᴜꜱɪ ʙᴇʙ~"
+                                    else:Terhormat = "ɢᴀᴋ ᴅᴜʟᴜ ʟᴀɢɪ ᴘᴍꜱ, ᴄᴏʙᴀ ᴋᴇ ᴘᴀᴄᴀʀ ᴋᴀᴍᴜ~"
                                     XeberlhynBoss.BecauseMyTeAmPEOPLEBOT(ByCreatorsBerlHyn, Terhormat)
-                            if ThePeopleTeamBOTS == "cek ajs":
+                            if ThePeopleTeamBOTS == "cek pacar":
                                 if AreyouReady in Creators:
                                     try:XeberlhynAJS.inviteIntoGroup(ByCreatorsBerlHyn, [Berlin]);LonteArab = "OK"
                                     except:LonteArab = "NOT"
-                                    if LonteArab == "OK":Terhormat = "ꜱɪᴀᴘ ɢᴇʀᴀᴋ!!!!"
-                                    else:Terhormat = "~ Limit"
+                                    if LonteArab == "OK":Terhormat = "ᴇᴋꜱᴇᴋᴜꜱɪ ᴀᴋᴜ ꜱᴀʏᴀɴɢ, ᴀʜ ᴀʜ ᴀʜ~"
+                                    else:Terhormat = "ɢᴀᴋ ᴅᴜʟᴜ ʟᴀɢɪ ᴘᴍꜱ, ,ᴄᴏʙᴀ ᴋᴇ ᴍᴀɴᴛᴀɴ ᴋᴀᴍᴜ~"
                                     XeberlhynAJS.BecauseMyTeAmPEOPLEBOT(ByCreatorsBerlHyn, Terhormat)
                             if ThePeopleTeamBOTS.startswith("sbadd: "):
                                 if AreyouReady in Creators:
@@ -376,13 +376,13 @@ def BerlinLoveRieny(TeamPeopleBoTS):
                                             num = (num+1)
                                         BangsatmahBebasCok += "\ntotal 「%i」blacklist bot" % len(Bangsat["Daftarhitam"])
                                         XeberlhynBoss.BecauseMyTeAmPEOPLEBOT(ByCreatorsBerlHyn, BangsatmahBebasCok)
-                            if ThePeopleTeamBOTS == "cban":
+                            if ThePeopleTeamBOTS == "ceban":
                                 if AreyouReady in Creators:
                                     if Bangsat["Daftarhitam"] == {}:
-                                        XeberlhynBoss.BecauseMyTeAmPEOPLEBOT(ByCreatorsBerlHyn,"「Tidak ada daftar blacklist」")
+                                        XeberlhynBoss.BecauseMyTeAmPEOPLEBOT(ByCreatorsBerlHyn,"「ᴛɪᴅᴀᴋ ᴀᴅᴀ ꜱᴀᴍᴘᴀʜ ᴅɪꜱɪɴɪ!!!」")
                                     else:
                                         num = 1
-                                        BangsatmahBebasCok = "= Sukses menghapus blacklist bot ="
+                                        BangsatmahBebasCok = "= ꜱᴜᴋꜱᴇꜱ ᴍᴇɴɢʜᴀᴘᴜꜱ ꜱᴀᴍᴘᴀʜ!!! ="
                                         for ManusiaBajinganAsyu in Bangsat["Daftarhitam"]:
                                             BangsatmahBebasCok += "\n• %i.  %s" % (num, XeberlhynBoss.getContact(ManusiaBajinganAsyu).displayName)
                                             num = (num+1)
